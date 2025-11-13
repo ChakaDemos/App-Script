@@ -16,17 +16,5 @@
     "https://www.googleapis.com/auth/forms",
     "https://www.googleapis.com/auth/documents",
     "https://www.googleapis.com/auth/spreadsheets"
-  ],
-  "addOns": {
-    "common": {
-      "name": "OpenAI Classroom Assistant",
-      "logoUrl": "https://www.gstatic.com/images/branding/product/1x/apps_script_64dp.png",
-      "useLocaleFromApp": true
-    },
-    "classroom": {
-      "homepageTrigger": {
-        "runFunction": "onHomepage"
-      }
-    }
-  }
+  ]
 }
